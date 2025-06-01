@@ -1,11 +1,11 @@
-<h1>Server Manager - Create A Share Folder</h1>
+<h1>Microsoft 365 – Get To Any Admin Center</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to create a share folder using server manager using Server Manager. A share folder allows users on the network to access a specific folder and its contents as if they were directly on the server. This creates a central location for sharing files and folders, facilitating collaboration and reducing the need for manual file transfers between users.
+This project goes over how to any Microsoft 365 Admin Center. The Microsoft 365 Admin Center is a web-based portal that allows administrators to manage their Microsoft 365 services and tenant. It serves as a central location for tasks like managing users, assigning licenses, configuring settings, and accessing reports and data related to various services like Exchange, SharePoint, and Microsoft Teams.
 </b>
 
 
@@ -15,7 +15,7 @@ This project goes over how to create a share folder using server manager using S
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Server Manager</b>
+ - <b>Microsoft 365</b>
 
 
 
