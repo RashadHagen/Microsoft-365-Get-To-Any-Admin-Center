@@ -37,7 +37,7 @@ This project goes over how to any Microsoft 365 Admin Center. The Microsoft 365 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Browser.  Go To: www.office.com  .
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/wnyk6bF.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
@@ -47,8 +47,14 @@ This project goes over how to any Microsoft 365 Admin Center. The Microsoft 365 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/BtOvwfG.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/4ZED9F9.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/oE7KdJF.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/L5Ulbc2.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CVej5Mz.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -56,8 +62,8 @@ This project goes over how to any Microsoft 365 Admin Center. The Microsoft 365 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/BtOvwfG.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/4ZED9F9.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/BcGbIBB.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/VHaam0y.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -70,21 +76,21 @@ This project goes over how to any Microsoft 365 Admin Center. The Microsoft 365 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/F4f5YPJ.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/Kfjr2sw.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/NOa3UKJ.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/NU56Bqb.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/t4z76AC.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/L0jQ5oX.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/86OTVrm.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/YLDRGMe.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iqaYZTl.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/UrBN7lk.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
