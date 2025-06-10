@@ -42,7 +42,7 @@ This project goes over how to any Microsoft 365 Admin Center. The Microsoft 365 
 
 
   <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The nine-dot square (top-left).  Click: Admin.  (OR)  Click: Admin (far-left, bottom of the list).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>www.office.com  .  Click: The nine-dot square (top-left).  Click: Admin.  (OR)  Click: Admin (far-left, bottom of the list).</b></span>  
 <br/>
 
 <table>
