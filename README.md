@@ -34,7 +34,7 @@ This project goes over how to any Microsoft 365 Admin Center. The Microsoft 365 
  <br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Browser.  Go To: www.office.com  .
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Browser.  Go To: www.office.com  (OR)   admin.microsoft.com  .
     <br/>
     
   <img src="https://imgur.com/wnyk6bF.png" height="50%" width="50%"/>  
